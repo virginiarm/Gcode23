@@ -1,0 +1,21 @@
+* CSS reset to create a more consistent look across different browsers */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif; /* Use a basic, widely-supported font */
+    line-height: 1.6; /* A basic line-height for readability */
+    color: #333; /* A basic text color that's not too harsh */
+    background-color: rgb(41, 90, 70); /* A basic background color */
+}
+.heading{
+    font-weight: 200;
+    text-align: center;
+}
+.subheading{
+    font-weight:bold;
+    text-align: center;
+}

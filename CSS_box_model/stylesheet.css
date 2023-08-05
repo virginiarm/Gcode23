@@ -19,11 +19,21 @@
     background-color: yellow;
     margin-top: 100px;
     margin-left: 50px;
+    border-left: 133px;
+    border-right:133px;
     
 
 }
 .div{
     width: 300px;
     max-height: 375px;
-    
+    margin-top: 100px;
+    margin-left: 100px;
+    border-style: dashed;
+    border-width:5px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+
 }
